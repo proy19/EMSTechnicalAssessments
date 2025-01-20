@@ -1,2 +1,4 @@
-![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/1b637052-3467-4da2-9f69-175b7b46ea38)
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d0bff1cf-d69c-4873-89f2-2988da528331)
+![00-50-42-ezgif com-crop](https://github.com/user-attachments/assets/1b1dfa0b-934e-428b-b5b2-05b8dd2131a7)
+
+![00-50-42-ezgif com-crop (1)](https://github.com/user-attachments/assets/81a4b52b-a62b-4860-bb1c-499ad3a942d4)
+
