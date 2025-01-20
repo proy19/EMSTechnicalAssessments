@@ -1,0 +1,10 @@
+#top-group-btns {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: auto;
+  }
+
+#managerSelect {
+    width: 50%;
+}
