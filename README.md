@@ -1,12 +1,12 @@
 # Employee Management System
-A web applicationto manage employees, their roles, and their associations with managers.
+A web application to manage employees, their roles, and their associations with managers.
 
 ## Tech Stack
 - Frontend: Angular, Bootstrap
 - Backend: .NET Core
 - Database: Microsoft SQL Server hosted on AWS, Microsoft SQL Server Management Studio
 
-## FeaturesFunctionality
+## Features / Functionality
 - View employees in association with their manager
 ![00-50-42-ezgif com-crop](https://github.com/user-attachments/assets/1b1dfa0b-934e-428b-b5b2-05b8dd2131a7)
 - Add new employees and associate specific roles to them
